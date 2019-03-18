@@ -19,10 +19,14 @@
     "chalk": "^2.4.2",
     "hooker": "^0.2.3",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "jshint": "2.10.1"
 =======
     "jshint": "~2.10.2"
 >>>>>>> cfd9ade889c285c71abf1ca971a323c3b58bd962
+=======
+    "jshint": "~2.10.1"
+>>>>>>> a4f0b14a3fec16928899106f4f95b7d676813d74
   },
   "devDependencies": {
     "grunt": "^1.0.3",
